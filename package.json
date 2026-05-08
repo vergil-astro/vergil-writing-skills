@@ -1,0 +1,47 @@
+{
+  "name": "@vergil-astro/vergil-writing-skills",
+  "version": "1.0.1",
+  "publishConfig": {
+    "access": "public"
+  },
+  "description": "Vergil Astro theme Markdown directive enhancement skill for AI coding agents (Claude Code, Codex, Cursor, Gemini, OpenClaw)",
+  "main": "index.js",
+  "bin": {
+    "vergil-writing": "./bin/cli.js"
+  },
+  "files": [
+    "vergil-writing-skills.skill",
+    "SKILL.md",
+    "bin/",
+    "index.js",
+    "README.md"
+  ],
+  "keywords": [
+    "vergil",
+    "astro",
+    "markdown",
+    "directive",
+    "blog",
+    "content-enhancement",
+    "claude-code",
+    "codex",
+    "cursor",
+    "gemini",
+    "openclaw",
+    "ai-skill",
+    "writing-assistant"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vergil-astro/vergil-writing-skills.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vergil-astro/vergil-writing-skills/issues"
+  },
+  "homepage": "https://github.com/vergil-astro/vergil-writing-skills#readme"
+}
