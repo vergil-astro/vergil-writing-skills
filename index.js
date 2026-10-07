@@ -23,7 +23,7 @@ function getSkillInfo() {
     return {
         name: 'vergil-writing-skills',
         version: require('./package.json').version,
-        description: 'Vergil Astro theme content directive enhancement skill',
+        description: 'Write, typeset and enhance Vergil Astro theme articles (kami rules + Vergil directives)',
         skillFile: getSkillFilePath(),
         skillMd: getSkillMdPath()
     };

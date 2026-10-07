@@ -4,7 +4,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "description": "Vergil Astro theme Markdown directive enhancement skill for AI coding agents (Claude Code, Codex, Cursor, Gemini, OpenClaw)",
+  "description": "Write, typeset and enhance Markdown articles for the Vergil Astro theme, with kami's writing rules and Vergil's content directives. For AI coding agents (Claude Code, Codex, Cursor, Gemini, OpenClaw)",
   "main": "index.js",
   "bin": {
     "vergil-writing": "./bin/cli.js"
@@ -23,6 +23,8 @@
     "directive",
     "blog",
     "content-enhancement",
+    "typesetting",
+    "kami",
     "claude-code",
     "codex",
     "cursor",

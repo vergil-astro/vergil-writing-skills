@@ -185,7 +185,7 @@ console.log('');
 
 if (installedCount > 0) {
     console.log(`[OK] Skill installed on ${installedCount} agent(s)`);
-    console.log('   Try asking: "Enhance my article with Vergil directives"');
+    console.log('   Try asking: "帮我排版一下这篇文章" or "Enhance my article with Vergil directives"');
 } else if (detectedCount === 0) {
     console.log('[WARN] No supported AI agent detected on this system.');
     console.log('');
