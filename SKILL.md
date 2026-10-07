@@ -389,7 +389,7 @@ Read ten thousand books, travel ten thousand miles
 ```
 - `style`: quote (default) | badge
 - `el`: h2 (default) to h6; `centered="true"`; `color`; `shadow="true"`
-- `prefix` / `suffix` (suffix: quote style only): Iconify name, image or text; `prefix=""` hides the prefix
+- `prefix` / `suffix` (suffix: quote style only): Iconify name, image or text; `prefix="false"` hides the prefix
 - Renders as a real heading
 
 #### blockquote — Paragraph quote
